@@ -1,5 +1,6 @@
 name: Probe2
 on: workflow_dispatch
+permissions: {}
 jobs:
   probe:
     runs-on: ubuntu-latest
