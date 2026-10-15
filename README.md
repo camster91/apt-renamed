@@ -1,3 +1,5 @@
+This repo is archived and no longer maintained.
+
 # apt-renamed
 
 A small public-repository GitHub Actions probe. Its workflows are manually dispatched jobs that print fixed messages.
